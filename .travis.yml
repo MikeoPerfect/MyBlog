@@ -19,8 +19,6 @@ cache:
 #在构建之前安装hexo环境
 before_install:
   - npm install -g hexo-cli
-  - npm install hexo-renderer-pug --save
-  - npm install hexo-renderer-sass --save 
 
 #安装git插件和搜索功能插件
 install:
