@@ -89,6 +89,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
+  - title: MikeoPerfect'd 站点
+    url: http://mikeoperfect.com:8000
   - title: MikeoPerfect的GitHub
     url: https://github.com/MikeoPerfect
   - title: MikeoPerfect的CSDN
@@ -98,12 +100,16 @@ links:
 
 timeline:
   - num: 1
-    word: 2019/06/12-Start
+    word: 2019/06/29-深圳腾讯科技有限公司/PCG研发部/测试开发工程师
   - num: 2
-    word: 2019/11/29-XXX
+    word: 2019/06/15-合肥工业大学/2019届本科毕业
   - num: 3
-    word: 2019/02/18-DDD
+    word: 2018/12/02~2019/01/23-有赞零售部Java开发实习生
   - num: 4
+    word: 2018/07/13~2018/09/30-苏州微软o365 AntiSpam SDE Intern
+  - num: 5
+    word: 2015/09/01-合肥工业大学/物联网工程15-02班
+  - num: 6
     word: long long ago
 
 # Static files

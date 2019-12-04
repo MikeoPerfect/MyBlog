@@ -49,5 +49,5 @@ script:
 notifications:
   email:
     - hfuboys@outlook.com
-  on_success: change
+  on_success: always
   on_failure: always
