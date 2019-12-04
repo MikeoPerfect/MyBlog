@@ -90,7 +90,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 
 links:
   - title: MikeoPerfect'd 站点
-    url: http://mikeoperfect.com:8000
+    url: http://www.mikeoperfect.com:8000
   - title: MikeoPerfect的GitHub
     url: https://github.com/MikeoPerfect
   - title: MikeoPerfect的CSDN
