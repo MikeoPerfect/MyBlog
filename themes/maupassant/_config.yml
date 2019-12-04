@@ -39,8 +39,8 @@ show_category_count: true ## If you want to show the count of categories in the 
 toc_number: true ## If you want to add list number to toc please set the value to true.
 shareto: false ## If you want to use the share button please set the value to true, and you must have hexo-helper-qrcode installed.
 busuanzi: true ## If you want to use Busuanzi page views please set the value to true.
-wordcount: true ## If you want to display the word counter and the reading time expected to spend of each post please set the value to true, and you must have hexo-wordcount installed.
-widgets_on_small_screens: false ## Set to true to enable widgets on small screens.
+wordcount: false ## If you want to display the word counter and the reading time expected to spend of each post please set the value to true, and you must have hexo-wordcount installed.
+widgets_on_small_screens: true ## Set to true to enable widgets on small screens.
 canvas_nest:
   enable: false ## If you want to use dynamic background please set the value to true, you can also fill the following parameters to customize the dynamic effect, or just leave them blank to keep the default effect.
   color: "100,99,98" ## RGB value of the color, e.g. "100,99,98"
@@ -58,7 +58,7 @@ donate:
 post_copyright:
   enable: true ## If you want to display the copyright info after each post, please set the value to true and fill the following items on your need.
   author: MikeoPerfect ## Your author name, e.g. tufu9441
-  copyright_text: 版权所有，转载请注明出处转载 ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
+  copyright_text: 版权所有，转载请注明出处哦 ## Your copyright text, e.g. The author owns the copyright, please indicate the source reproduced.
 
 menu:
   - page: home
@@ -94,7 +94,7 @@ links:
   - title: MikeoPerfect的CSDN
     url: https://blog.csdn.net/mikeoperfect
   - title: 王林钊的博客
-    url: http://www.example3.com/
+    url: https://gerlegend.cn/
 
 timeline:
   - num: 1
