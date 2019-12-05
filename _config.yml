@@ -8,7 +8,6 @@ subtitle: MikeoPerfect's Diary
 description: MikeoPerfect's Diary
 keywords: MikeoPerfect's Diary
 author: MikeoPerfect
-avatar: https://i.loli.net/2019/12/01/7MIuSBJYtQWFaDo.jpg
 language: 
   - zh-CN
   - en
@@ -18,8 +17,11 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.MikeoPerfect.com
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+#permalink_defaults:
+permalink: posts/:abbrlink/
+abbrlink:
+  alg: crc16 #support crc16(default) and crc32
+  rep: dec   #support dec(default) and hex
 pretty_urls:
   trailing_index: true # Set to false to remove trailing index.html from permalinks
 
