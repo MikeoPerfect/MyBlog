@@ -83,7 +83,6 @@ menu:
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
   - category
-  - tag
   - recent_posts
   - recent_comments
   - links
