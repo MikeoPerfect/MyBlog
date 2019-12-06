@@ -21,6 +21,10 @@ service_worker:
   stripPrefix: public
   verbose: true
 
+#lazy load
+lazy_load: #native load
+  enable: true
+
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://blog.MikeoPerfect.com
