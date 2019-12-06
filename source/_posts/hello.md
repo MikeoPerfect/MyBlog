@@ -5,3 +5,7 @@ tags: hello world
 
 ---
 hello, I'm fine.
+
+<!--more-->
+
+![favicon](hello/image/favicon.jpg)

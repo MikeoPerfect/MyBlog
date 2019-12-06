@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 service_worker:
   maximumFileSizeToCacheInBytes: 5242880
   staticFileGlobs:
-  - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2}
+  - public/**/*.{js,html,css,png,jpg,ico,gif,svg,eot,ttf,woff,woff2}
   stripPrefix: public
   verbose: true
 
@@ -67,7 +67,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
