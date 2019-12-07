@@ -3,7 +3,7 @@ title: hi
 date: 2019-12-01 21:26:04
 tags: hello world
 password: BLOG_HELLO_PASSWORD
-message: blog encrypt test, the password is abc123
+message: blog encrypt test, the password is ${BLOG_HELLO_PASSWORD} from travis's BLOG_HELLO_PASSWORD = 123456
 ---
 hello, I'm fine.
 
