@@ -2,7 +2,7 @@
 title: hi
 date: 2019-12-01 21:26:04
 tags: hello world
-password: abc123
+password: BLOG_HI_PASSWORD
 message: blog encrypt test, the password is abc123
 ---
 hello, I'm fine.
