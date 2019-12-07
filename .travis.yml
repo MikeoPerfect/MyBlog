@@ -32,13 +32,13 @@ before_script:
   - sed -i "s/github_token/${GH_TOKEN}/g" ./_config.yml || exit 1
 
   - cd themes/maupassant # 要修改的是 `themes/maupassant` 下的 `_config.yml`，不是 `<root>/_config.yml`
-  - sed -i "s/clientId/$OAUTH_CLIENT_ID/g" ./_config.yml || exit 1
-  - sed -i "s/clientSecret/$OAUTH_CLIENT_KEY/g" ./_config.yml || exit 1
+  - sed -i "s/clientId/${OAUTH_CLIENT_ID}/g" ./_config.yml || exit 1
+  - sed -i "s/clientSecret/${OAUTH_CLIENT_KEY}/g" ./_config.yml || exit 1
   - cd - # 回到 `<root>`
 
   # 将博文hello的密码更改
   - cd source/_posts
-  - sed -i "s/BLOG_HELLO_PASSWORD/$BLOG_HELLO_PASSWORD/g" ./hello.md || exit 1
+  - sed -i "s/BLOG_HELLO_PASSWORD/${BLOG_HELLO_PASSWORD}/g" ./hello.md || exit 1
   - cd -
 
 # 执行清缓存，生成网页操作
