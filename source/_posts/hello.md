@@ -2,6 +2,9 @@
 title: hi
 date: 2019-12-01 21:26:04
 tags: hello world
+categories:
+- hello world
+- hi
 password: BLOG_HELLO_PASSWORD
 message: blog encrypt test, the password is ${PASSWORD} from travis's PASSWORD = 123456
 ---
