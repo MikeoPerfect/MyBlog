@@ -32,10 +32,9 @@ encrypt: # hexo-blog-encrypt
 
 #lazy load
 lazyload:
-  enable: true
-  # thumbPath: '/img/github.svg'
-  # className: #可选 e.g. .J-lazyload-img
-  #loadingImg: #可选 eg. /images/loading.png
+  enable: true 
+  onlypost: true
+  loadingImg: # eg ./images/loading.gif
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
