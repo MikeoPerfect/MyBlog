@@ -32,6 +32,7 @@
     "hexo-server": "^1.0.0",
     "hexo-service-worker": "^1.0.1",
     "hexo-tag-cloud": "^2.1.1",
+    "hexo-tag-dplayer": "^0.3.3",
     "hexo-wordcount": "^6.0.1",
     "pug": "^2.0.4"
   }
