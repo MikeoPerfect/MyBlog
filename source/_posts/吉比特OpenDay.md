@@ -1,7 +1,7 @@
 ---
 title: 吉比特OpenDay
 date: 2018-07-23 21:26:04
-tags: campus Intern
+tags: campus Intern competition
 categories: campus
 comments: false 
 ---

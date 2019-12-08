@@ -1,8 +1,8 @@
 ---
 title: mini项目回忆录
 date: 2019-08-25 21:26:04
-tags: campus 
-categories: campus
+tags: socialwork
+categories: socialwork
 comments: false
 ---
 
