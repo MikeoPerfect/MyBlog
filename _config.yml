@@ -91,7 +91,7 @@ highlight:
   auto_detect: true
   tab_replace:
 
-mathjax: true
+mathjax: false
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
