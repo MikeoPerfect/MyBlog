@@ -1,8 +1,8 @@
 ---
 title: mini项目回忆录
 date: 2019-08-25 21:26:04
-tags: socialwork
-categories: socialwork
+tags: [social activity]
+categories: social activity
 comments: false
 ---
 
