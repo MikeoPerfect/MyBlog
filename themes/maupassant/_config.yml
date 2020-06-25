@@ -89,7 +89,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 
 links:
   - title: MikeoPerfect'd 站点
-    url: http://www.mikeoperfect.com:8000
+    url: http://www.mikeoperfect.com
   - title: 王林钊的博客
     url: https://gerlegend.cn/
 
