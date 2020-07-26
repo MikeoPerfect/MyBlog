@@ -81,6 +81,7 @@ menu:
     icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
+  - toc
   - search
   - category
   - recent_posts
