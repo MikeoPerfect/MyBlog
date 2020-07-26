@@ -5,7 +5,7 @@ tags: [Personal Letter]
 categories: Pearl Box
 comments: false
 password: BLOG_MY_OLD_TIME_PASSWORD
-message: in the past five years, a fascinating time for ...(Tips [my pseudonym])
+message: in the past five years, a fascinating time for [my pseudonym]
 ---
 
 过去的日子是美好的，就像清晨投下的第一缕阳光，照的人心里暖洋洋的，这是一个关于小A和小C的故事，一首属于青春的歌。
