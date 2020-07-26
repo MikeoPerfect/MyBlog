@@ -5,3 +5,31 @@
   a(rel='nofollow', target='_blank', href='https://github.com/tufu9441/maupassant-hexo')  Theme
   |  by
   a(rel='nofollow', target='_blank', href='https://github.com/pagecho')  Cho.
+ br
+  span#timeDate 载入天数...
+  span#times 载入时分秒...
+  script.
+    var now = new Date();
+    function createtime() {
+    var grt= new Date("01/01/2018 00:00:00");
+    now.setTime(now.getTime()+250);
+    days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+    hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+    if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+    mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+    seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+    snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+    document.getElementById("timeDate").innerHTML = "运行 "+dnum+" 天 ";
+    document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+    }
+    setInterval("createtime()",250);
+  br
+  div
+    .github-badge(style='margin-right: 3px;')
+      a(href='https://hexo.io', target='_black', rel='nofollow')
+        span.badge-subject Powered by
+        span.badge-value.bg-blue Hexo
+    .github-badge
+      a(href='https://github.com/tufu9441/maupassant-hexo', target='_black', rel='nofollow')
+        span.badge-subject Theme
+        span.badge-value.bg-yellowgreen Maupassant
