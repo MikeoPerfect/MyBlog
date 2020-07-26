@@ -1763,20 +1763,6 @@ em.search-keyword {
   text-shadow: 0
 }
 
-
-// Custom styles.
-.post-copyright {
-    margin: 2em 0 0;
-    padding: 0.5em 1em;
-    border-left: 3px solid #FF1700;
-    background-color: #F9F9F9;
-    list-style: none;
-    li {
-        margin: 8px 0;
-    }
-}
-
-/* github-badge */
 .github-badge {
     display: inline-block;
     border-radius: 4px;
@@ -1827,3 +1813,15 @@ em.search-keyword {
 .github-badge .bg-lightgrey,
 .github-badge .bg-lightgray {
     background-color: #9f9f9f !important; }
+
+// Custom styles.
+.post-copyright {
+    margin: 2em 0 0;
+    padding: 0.5em 1em;
+    border-left: 3px solid #FF1700;
+    background-color: #F9F9F9;
+    list-style: none;
+    li {
+        margin: 8px 0;
+    }
+}
