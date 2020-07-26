@@ -41,6 +41,11 @@ before_script:
   - sed -i "s/BLOG_HELLO_PASSWORD/${BLOG_HELLO_PASSWORD}/g" ./hello.md || exit 1
   - cd -
 
+  # 将博文{写给你的歌}的密码更改
+  - cd source/_posts
+  - sed -i "s/BLOG_MY_OLD_TIME_PASSWORD/${BLOG_MY_OLD_TIME_PASSWORD}/g" ./写给你的歌.md || exit 1
+  - cd -
+
 # 执行清缓存，生成网页操作
 script:
   - hexo clean
