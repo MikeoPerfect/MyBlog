@@ -70,7 +70,7 @@ message: in the past five years, a fascinating time for [my pseudonym]
 
 ![image-20200729000856356](MySongForYou/image/image-20200729000856356.png)
 
-后来的故事是什么样子的呢，小A不知道，就像时间一直在前进，故事也还未结束，一直在向前进行着
+后来的故事是什么样子的呢，小A不知道，就像时间一直在前进，故事也还未结束，一直在向前发展着
 
 
 
