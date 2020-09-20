@@ -1,6 +1,6 @@
 ---
 title: 4月的总结
-date: 2018-04-30 21:26:04
+date: 2020-08-30 21:26:04
 tags: reunion
 categories: reunion
 comments: false
@@ -10,4 +10,5 @@ comments: false
 
 <!--more-->
 
-未完待续。。。
+没啥好玩的，盲盒经济的一种表现形式。
+
