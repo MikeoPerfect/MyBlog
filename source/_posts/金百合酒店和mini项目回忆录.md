@@ -2,7 +2,7 @@
 title: 金百合酒店和mini项目回忆录
 date: 2019-08-25 21:26:04
 tags: [social activity]
-categories: social activity
+categories: ACTIVITY
 comments: false
 ---
 

@@ -2,7 +2,7 @@
 title: Hackathon
 date: 2018-05-14 21:26:04
 tags: [campus,competition]
-categories: campus
+categories: CAMPUS
 comments: false
 ---
 

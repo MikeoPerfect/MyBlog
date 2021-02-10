@@ -2,7 +2,7 @@
 title: QQ潮玩展会游记
 date: 2020-08-30 21:26:04
 tags: reunion
-categories: reunion
+categories: REUNION
 comments: false
 ---
 

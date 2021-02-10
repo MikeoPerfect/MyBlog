@@ -2,7 +2,7 @@
 title: 2019HUAWEI软件挑战赛的日常
 date: 2019-04-10 21:26:04
 tags: [campus,competition]
-categories: campus
+categories: CAMPUS
 comments: false
 ---
 
